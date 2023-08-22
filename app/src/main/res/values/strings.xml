@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Banner">App Icon</string>
+    <string name="About_us">We are The Tech Related Society</string>
+    <string name="hint">It is Number</string>
+</resources>
